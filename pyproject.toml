@@ -7,13 +7,10 @@ requires-python = "~=3.10"
 dependencies = [
     "mediapipe>=0.10.14",
     "opencv-python>=4.11.0.86",
-    "supervision",
+    "supervision>=0.25.1",
     "tqdm>=4.67.1",
     "ultralytics>=8.3.75",
 ]
-
-[tool.uv.sources]
-supervision = { path = "../supervision" }
 
 [dependency-groups]
 dev = [
