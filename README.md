@@ -16,7 +16,6 @@ Hence, I tried to understand it by illustrating it.
 ![Example 1 – Original Image](examples/1.jpg "Example 1 – Original Image")
 
 **Output**
-![Example 1 – Output](examples/1.webm.mp4 "Example 1 – Output")
 
 ### Example 2
 
@@ -24,7 +23,6 @@ Hence, I tried to understand it by illustrating it.
 ![Example 2 – Original Image](examples/2.jpg "Example 2 – Original Image")
 
 **Output**
-![Example 2 – Output](examples/2.webm.mp4 "Example 2 – Output")
 
 ### Example 3
 
@@ -32,7 +30,6 @@ Hence, I tried to understand it by illustrating it.
 ![Example 3 – Original Image](examples/3.jpg "Example 3 – Original Image")
 
 **Output**
-![Example 3 – Output](examples/3.webm.mp4 "Example 3 – Output")
 
 ### Example 4
 
@@ -40,6 +37,5 @@ Hence, I tried to understand it by illustrating it.
 ![Example 4 – Original Image](examples/4.jpg "Example 4 – Original Image")
 
 **Output**
-![Example 4 – Output](examples/4.webm.mp4 "Example 4 – Output")
 
 Images used are free and permitted. Credits: [Pixabay](https://pixabay.com)
