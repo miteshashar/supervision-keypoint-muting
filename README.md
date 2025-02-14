@@ -13,33 +13,33 @@ Hence, I tried to understand it by illustrating it.
 ### Example 1
 
 **[Original Image](https://pixabay.com/photos/soccer-competition-football-stadium-3311817/)**
-!(examples/1.jpg "Example 1 – Original Image)
+![Example 1 – Original Image](examples/1.jpg "Example 1 – Original Image")
 
 **Output**
-!(examples/1.webm "Example 1 – Output)
+![Example 1 – Output](examples/1.webm "Example 1 – Output")
 
 ### Example 2
 
 **[Original Image](https://pixabay.com/photos/ski-skier-sports-downhill-slope-79564/)**
-!(examples/2.jpg "Example 2 – Original Image)
+![Example 2 – Original Image](examples/2.jpg "Example 2 – Original Image")
 
 **Output**
-!(examples/2.webm "Example 2 – Output)
+![Example 2 – Output](examples/2.webm "Example 2 – Output")
 
 ### Example 3
 
 **[Original Image](https://pixabay.com/photos/runners-male-sport-run-athlete-373099/)**
-!(examples/3.jpg "Example 3 – Original Image)
+![Example 3 – Original Image](examples/3.jpg "Example 3 – Original Image")
 
 **Output**
-!(examples/3.webm "Example 3 – Output)
+![Example 3 – Output](examples/3.webm "Example 3 – Output")
 
 ### Example 4
 
 **[Original Image](https://pixabay.com/photos/sumo-wrestler-athlete-wrestler-hall-3196753/)**
-!(examples/4.jpg "Example 4 – Original Image)
+![Example 4 – Original Image](examples/4.jpg "Example 4 – Original Image")
 
 **Output**
-!(examples/4.webm "Example 4 – Output)
+![Example 4 – Output](examples/4.webm "Example 4 – Output")
 
 Images used are free and permitted. Credits: [Pixabay](https://pixabay.com)
