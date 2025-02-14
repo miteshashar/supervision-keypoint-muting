@@ -1,0 +1,15 @@
+.venv
+__pycache__
+*.pyc
+*.pyo
+.python-version
+.DS_Store
+Thumbs.db
+
+# Models
+*.task
+*.pt
+
+# Images
+images/*
+!images/.gitkeep
